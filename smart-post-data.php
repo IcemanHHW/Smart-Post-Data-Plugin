@@ -9,7 +9,7 @@ Plugin Name: Smart Post Data Plugin
 Description: This is a plugin to show the data of the post in the header.
 Version: 1.0.0
 Author: Maarten Kampmeijer
-Author URI: https://github.com/IcemanHHW/
+Author URI: https://github.com/IcemanHHW/Smart-Post-Data-Plugin
 License: GPLv2 or later
 Text Domain: smart-post-data-plugin
 */
